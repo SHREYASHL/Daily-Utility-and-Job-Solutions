@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="DUandJS">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datechooser.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

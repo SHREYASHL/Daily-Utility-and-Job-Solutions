@@ -1,0 +1,4 @@
+AWS DB credentials:
+ 
+Username : AWScon
+Pass : Askmyname

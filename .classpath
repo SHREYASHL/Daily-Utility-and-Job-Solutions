@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="Jars/activation.jar"/>
+	<classpathentry kind="lib" path="Jars/datechooser.jar"/>
+	<classpathentry kind="lib" path="Jars/gradient-dropdown-menu.jar"/>
+	<classpathentry kind="lib" path="Jars/javax.mail.jar"/>
+	<classpathentry kind="lib" path="Jars/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="Jars/miglayout-4.0.jar"/>
+	<classpathentry kind="lib" path="Jars/mysql-connector-java-8.0.28.jar"/>
+	<classpathentry kind="lib" path="Jars/org-apache-commons-codec.jar"/>
+	<classpathentry kind="lib" path="Jars/swing-time-picker.jar"/>
+	<classpathentry kind="lib" path="Jars/TimingFramework-0.55.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
